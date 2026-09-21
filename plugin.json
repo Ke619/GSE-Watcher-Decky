@@ -1,0 +1,10 @@
+{
+  "name": "GSE Watcher",
+  "author": "Unknown",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": ["utility", "gaming"],
+    "description": "Watches Proton game achievements and triggers Steam notifications via SAM"
+  }
+}
